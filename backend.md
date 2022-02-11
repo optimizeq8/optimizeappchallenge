@@ -56,7 +56,7 @@ At OptimizeApp we spend all day figuring out how to get customers ads online as 
 1. Having unit/integration tests is a strong bonus.
 2. Add seeders
 3. Add filters for media type, upload date
-4. (Optional) Run application in Docker, candidate must provide docker-composer.yml and start.sh bash script at the root of the project, which should setup all relevant services/applications.
+4. Run application in Docker, candidate must provide docker-composer.yml and start.sh bash script at the root of the project, which should setup all relevant services/applications.
 
 
 Questions? We love to answer: admin@optimizeapp.com
