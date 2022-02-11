@@ -10,6 +10,7 @@ At OptimizeApp we spend all day figuring out how to get customers ads online as 
 2. We prefer PHP (Laravel/Lumen), but the solution can also be written in Symfony.
 3. Candidates must submit the project as a git repository (github.com, bitbucket.com, gitlab.com). The repository must avoid containing the words `optimizeapp` and `challenge`.
 4. The solution must be [production] ready.
+5. Run application in Docker, candidate must provide docker-composer.yml and start.sh bash script at the root of the project, which should setup all relevant services/applications.
 
 ## Problem Statement
 
@@ -56,7 +57,6 @@ At OptimizeApp we spend all day figuring out how to get customers ads online as 
 1. Having unit/integration tests is a strong bonus.
 2. Add seeders
 3. Add filters for media type, upload date
-4. Run application in Docker, candidate must provide docker-composer.yml and start.sh bash script at the root of the project, which should setup all relevant services/applications.
 
 
 Questions? We love to answer: admin@optimizeapp.com
